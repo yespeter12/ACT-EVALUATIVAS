@@ -17,3 +17,11 @@ nav{
     display: inline-block
     }
 
+
+
+a{
+    background-color: rgb(71, 184, 255);
+    color: white;
+    margin: 10px;
+
+}
